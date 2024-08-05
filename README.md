@@ -1,7 +1,7 @@
 Read On It Booklist
 
 Description:
-Book review platform: Users can browse books, write reviews, and read reviews written by other users.
+Book review platform where users can share and review book reviews
 
 Installation Instructions:
 Provide a step-by-step guide to get your project running.
